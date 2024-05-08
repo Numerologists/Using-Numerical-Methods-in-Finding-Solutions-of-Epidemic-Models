@@ -17,7 +17,7 @@ To reproduce the results and compile the LaTeX document:
    - Compile the `main.tex` file using your preferred LaTeX editor or terminal command.
 
 2. **MATLAB RK4 Code**:
-   - Access the MATLAB RK4 code from the [GitHub repository](https://github.com/RoshanRagnarok/Numerical_method-project.git).
+   - Access the MATLAB RK4 code from the [GitHub repository](https://github.com/Numerologists/Using-Numerical-Methods-in-Finding-Solutions-of-Epidemic-Models.git).
    - Follow the instructions provided in the repository to run the RK4 simulations for SIR and SIS models.
 
 ## Results
