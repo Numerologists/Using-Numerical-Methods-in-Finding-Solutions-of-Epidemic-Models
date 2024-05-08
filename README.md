@@ -1,9 +1,16 @@
 # Using-Numerical-Methods-in-Finding-Solutions-of-Epidemic-Models
 ## Content Overview
 
+### Report1 - Theory of different population models
+- **Malthusian Model**
+- **Logistic Growth Model**
+- **Insect Outbreak Model**
+- **Predator-Prey Models**
+
+### Report2 - Implementing RK4 method
 - **History of Epidemics**: A historical perspective on the impact of infectious diseases on human societies.
 - **Introduction**: Overview of epidemiological modeling and the significance of differential equations in disease spread.
-- **RK4 Analysis of SIR Model**: Mathematical formulations and RK4 implementation for the SIR model.
+- **RK4 Method for SIR Model**: Mathematical formulations and RK4 implementation for the SIR model.
 - **RK4 Method for SIS Model**: Mathematical formulations and RK4 implementation for the SIS model.
 - **Examples**: Detailed examples showcasing RK4 solutions and comparisons with theoretical predictions.
 - **Conclusion**: Key insights and conclusions drawn from the RK4 analysis of epidemic models.
